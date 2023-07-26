@@ -1,5 +1,8 @@
 # pytest-selenium
 
-Test automation with Pytest + Selenium using Page Object model
+Test automation with Pytest + Selenium
 
-[Final work on the course: "Test Automation with Selenium and Python"]
+Run:
+
+    pip install -r "requirements.txt"
+    pytest -v --tb=line --language=en -m need_review
